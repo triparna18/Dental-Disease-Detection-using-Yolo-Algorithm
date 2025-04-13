@@ -1,0 +1,10 @@
+upath: 'D:/datasets/Dental Radiography/data' # dataset root dir
+train: images/train
+val: images/valid
+
+# classes
+names:
+  0: Implant
+  1: Fillings
+  2: 'Impacted Tooth'
+  3: Cavity
